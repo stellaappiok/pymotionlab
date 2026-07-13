@@ -10,8 +10,8 @@ Most beginner-friendly robotics tools are either too simplified to teach real co
 
 ## Features (current + planned)
 
-- [x] Define robot arms via DH parameters or simple link/joint specs
-- [x] Forward kinematics
+- [ ] Define robot arms via DH parameters or simple link/joint specs
+- [ ] Forward kinematics
 - [ ] Inverse kinematics (analytical + numerical)
 - [ ] 2D/3D visualization of arm pose and motion
 - [ ] Trajectory generation and animation
